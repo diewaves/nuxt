@@ -1,0 +1,16 @@
+[
+  {
+    "name": "albums-id",
+    "path": "/albums/:id?",
+    "component": "e:\\\\Archivos\\\\DOCUMENTOS\\\\Javascript\\\\Nuxt\\\\pages\\\\albums\\\\_id.vue",
+    "chunkName": "pages/albums/_id",
+    "_name": "_349626ea"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "e:\\\\Archivos\\\\DOCUMENTOS\\\\Javascript\\\\Nuxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_adc8c772"
+  }
+]
